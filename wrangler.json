@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "license-signature",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "8108c393-08d0-46e7-a5e8-3a808dc3a06f",
+			"database_name": "license-signature-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
