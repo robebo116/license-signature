@@ -1,7 +1,7 @@
 {
 	"compatibility_date": "2025-10-08",
 	"main": "src/index.ts",
-	"name": "license-checker-srt",
+	"name": "license-signature",
 	"upload_source_maps": true,
 	"d1_databases": [
 		{
